@@ -1,0 +1,25 @@
+{
+  "name": "mindustry-atlas",
+  "version": "1.0.0",
+  "description": "Interactive atlas for the planets Serpulo and Erekir in Mindustry.",
+  "homepage": "https://github.com/mavropulos-Tino/Mindustry-Atlas#readme",
+  "bugs": {
+    "url": "https://github.com/mavropulos-Tino/Mindustry-Atlas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavropulos-Tino/Mindustry-Atlas.git"
+  },
+  "license": "GPL-3.0",
+  "author": "mavropulos-Tino",
+  "type": "commonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}
